@@ -11,13 +11,13 @@
 |Scenario|Messgrößen|Sender|Empfänger|
 |:----|:----|:----|:----|
 |☐ 0|Reliability ✅<br> Latency ✅|PI|PI|
-|☐ a|Stromverbrauch - idel ✅<br> Stromverbrauch - senden ✅<br> Reliability ✅<br> Latency✅|esp8266|PI|
+|☐ a|Stromverbrauch - idel ✅<br> Stromverbrauch - senden ✅<br> Reliability ✅<br> Latency ✅|esp8266|PI|
 |☐ b|Stromverbrauch - idel <br> Stromverbrauch - senden <br> Reliability <br> Latency|nrf52840 - Thread|PI|
 |☐ c|Stromverbrauch - idel <br> Stromverbrauch - senden <br> Reliability <br> Latency|nrf52840 - BLE|PI|
-|☐ d|Stromverbrauch - deepsleep ✅<br> Stromverbrauch - wakup ✅<br> Dauer-wakeup ✅<br> Stromverbrauch - senden ✅<br> Reliability ✅<br> Latency✅|esp8266|PI|
+|☐ d|Stromverbrauch - deepsleep ✅<br> Stromverbrauch - wakup ✅<br> Dauer-wakeup ✅<br> Stromverbrauch - senden ✅<br> Reliability ✅<br> Latency ✅|esp8266|PI|
 |☐ e|Stromverbrauch - deepsleep <br> Stromverbrauch - wakup <br> Dauer-wakeup <br> Stromverbrauch - senden <br> Reliability <br> Latency|nrf52840 - Thread|PI|
 |☐ f|Stromverbrauch - deepsleep <br> Stromverbrauch - wakup <br> Dauer-wakeup <br> Stromverbrauch - senden <br> Reliability <br> Latency|nrf52840 - BLE|PI|
-|☐ g|Stromverbrauch - OFF if any ✅<br> Dauer-wakeup ✅<br> Stromverbrauch - wakup ✅<br> Stromverbrauch - senden ✅<br> Reliability ✅<br> Latency|esp8266|PI|
+|☐ g|Stromverbrauch - OFF if any ✅<br> Dauer-wakeup ✅<br> Stromverbrauch - wakup ✅<br> Stromverbrauch - senden ✅<br> Reliability ✅<br> Latency ✅|esp8266|PI|
 |☐ h|Stromverbrauch - OFF if any <br> Dauer-wakeup <br> Stromverbrauch - wakup <br> Stromverbrauch - senden <br> Reliability <br> Latency|nrf52840 - Thread|PI|
 |☐ i|Stromverbrauch - OFF if any <br> Dauer-wakeup <br> Stromverbrauch - wakup <br> Stromverbrauch - senden <br> Reliability <br> Latency|nrf52840 - BLE|PI|
 |☐ j|Stromverbrauch - idel ✅<br> Stromverbrauch - empfang ✅<br> Reliability ✅<br> Latency ✅|PI|esp8266|
